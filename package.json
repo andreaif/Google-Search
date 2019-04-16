@@ -19,6 +19,8 @@
   "homepage": "https://github.com/andreaif/google-search#readme",
   "dependencies": {
     "cors-express": "^0.2.2",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.1",
     "node": "^11.13.0"
   }
 }
